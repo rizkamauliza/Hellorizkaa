@@ -1,2 +1,2 @@
 # Hellorizkaa
-pertama kali membuat repository
+# pertama kali membuat repository
